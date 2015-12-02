@@ -2,9 +2,7 @@
   "name": "authtodo",
   "description": "",
   "main": "",
-  "authors": [
-    
-  ],
+  "authors": [],
   "license": "MIT",
   "moduleType": [],
   "homepage": "",
@@ -18,10 +16,10 @@
   ],
   "dependencies": {
     "jquery": "~2.1.4",
-    "font-awesome": "~4.4.0",
+    "font-awesome": "~4.5.0",
     "angular": "~1.4.8",
     "angular-route": "~1.4.8",
     "angular-resource": "~1.4.8",
-    "bootstrap": "~3.3.5"
+    "bootstrap": "~3.3.6"
   }
 }
