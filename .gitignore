@@ -1,5 +1,4 @@
-node_modules
-public/lib
+node_module
 .DS_Store
 .c9
 typings
