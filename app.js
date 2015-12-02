@@ -24,6 +24,7 @@ mongoose.connection.on('error', function () {
 var routes = require('./server/routes/index');
 var users = require('./server/routes/users');
 var todos = require('./server/routes/todos');
+var contact = require('./server/routes/contacts');
 
 
 var app = express();
